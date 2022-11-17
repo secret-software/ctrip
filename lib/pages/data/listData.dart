@@ -1,0 +1,55 @@
+List listData =[
+
+  {
+    'title':'消息号动态',
+    'content':'携程联名卡:【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/business_block_service.png'
+  },
+  {
+    'title':'公对公结算',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/business_block_pay.png'
+  },
+  {
+    'title':'企业商旅',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/business_block_order.png'
+  },
+  {
+    'title':'消息号动态',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/business_block_service.png'
+  },
+  
+  {
+    'title':'小招头条',
+    'content':'携程联名卡:【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/hotelSafely.png'
+  },
+  {
+    'title':'小招有财',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/flightSafely.png'
+  },
+  {
+    'title':'携程客服',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/trainSafely.png'
+  },
+  {
+    'title':'消息号动态',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://webresource.c-ctrip.com/ares2/nfes/pc-home/1.0.58/default/image/travelSafely.png'
+  },
+  {
+    'title':'小招头条',
+    'content':'携程联名卡:【提醒】您有一张免费通用券',
+    'imageUrl':'https://img.alicdn.com/tfs/TB1SHKvGbr1gK0jSZFDXXb9yVXa-216-216.png'
+  },
+  {
+    'title':'小招有财',
+    'content':'携程联名卡：【提醒】您有一张免费通用券',
+    'imageUrl':'https://img.alicdn.com/tfs/TB1SHKvGbr1gK0jSZFDXXb9yVXa-216-216.png'
+  },
+
+];
